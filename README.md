@@ -7,17 +7,11 @@ Installation:
 git clone git@github.com:arnoudbuzing/wolfram-vim.git
 ```
 
-and then copy `wolfram-language.vim` under `~/.vim/syntax/`
-
-
-Or clone directly to VIM's `syntax` directory:
-```
-git clone git@github.com:arnoudbuzing/wolfram-vim.git ~/.vim/syntax
-```
+and then copy `wl.vim` under `~/.vim/syntax/`
 
 Enable in VIM
 
 ```
-set syntax=wolfram-language
+set syntax=wl
 ```
 
