@@ -19,5 +19,6 @@ Enable automatically when VIM is started, add the following to `~/.vimrc`:
 
 ```
 autocmd BufNewFile,BufRead *.wl set syntax=wl
+autocmd BufNewFile,BufRead *.wls set syntax=wl
 autocmd BufNewFile,BufRead *.m set syntax=wl
 ```
