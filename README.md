@@ -7,7 +7,7 @@ Installation:
 git clone git@github.com:arnoudbuzing/wolfram-vim.git
 ```
 
-and then copy `wl.vim` under `~/.vim/syntax/`
+and then copy `syntax/wl.vim` under `~/.vim/`
 
 Enable in VIM
 
